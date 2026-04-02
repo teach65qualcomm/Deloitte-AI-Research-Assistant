@@ -1,7 +1,3 @@
-Here is your **clean, final GitHub README.md in proper format** (ready to paste directly into GitHub):
-
----
-
 # 🔷 Deloitte AI Research Assistant
 
 An enterprise-grade **AI-powered research assistant** built with **Streamlit, LangChain, and Azure OpenAI**.
