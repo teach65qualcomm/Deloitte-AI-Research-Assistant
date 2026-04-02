@@ -215,12 +215,6 @@ streamlit run app.py
 
 ---
 
-## 📄 License
-
-MIT License
-
----
-
 ## 👨‍💻 Author
 
 Built as an **AI-powered research assistant system** inspired by enterprise-grade solutions.
